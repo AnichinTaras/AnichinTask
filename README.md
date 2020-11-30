@@ -5,10 +5,13 @@ Task: [a link](https://github.com/AnichinTaras/AnichinTask/blob/master/ExamDescT
 
 <h3> Launch of the project: </h3> 
 
-clean -f pom.xml - clear target 
-install -f pom.xml - install project and build jar 
-and run AnichinGranSoftApp.jar
-
+ <hr>
+   <ul>
+     <li>clean -f pom.xml - clear target</li>
+     <li>install -f pom.xml - install project and build jar </li>
+     <li>and run AnichinGranSoftApp.jar</li>
+   </ul>
+   <hr>
 
 <img src="https://media.giphy.com/media/xoZroSSBIFj7TuvcBo/giphy.gif" width="600" height="600" />
 
