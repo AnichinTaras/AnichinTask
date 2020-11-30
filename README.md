@@ -1,6 +1,6 @@
 # This is project for GranSoft Solutions company.
 
-Task: [a link](https://github.com/AnichinTaras/Anichin/blob/master/ExamDesc.docx)
+Task: [a link](https://github.com/AnichinTaras/Anichin/blob/master/ExamDescTask.docx)
 
 <h1> Demonstration: </h1>
 
