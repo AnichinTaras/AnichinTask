@@ -7,9 +7,9 @@ Task: [a link](https://github.com/AnichinTaras/AnichinTask/blob/master/ExamDescT
 
  <hr>
    <ul>
- <li><strong>clean -f pom.xml - clear target</strong></li>
-     <li><strong>install -f pom.xml - install project and build jar</strong> </li>
-      <li><strong>and run AnichinGranSoftApp.jar</strong></li>
+ <li><strong>clean -f pom.xml</strong> - clear target</li>
+     <li><strong>install -f pom.xml</strong>  - install project and build jar</li>
+      <li><strong>and run this file</strong> - AnichinGranSoftApp.jar</li>
    </ul>
    <hr>
 
