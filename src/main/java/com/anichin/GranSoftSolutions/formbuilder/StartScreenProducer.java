@@ -70,7 +70,7 @@ public class StartScreenProducer {
                         invokeLater (() -> new SortingScreener (frame, jButtonList));
                     } else throw new NumberFormatException ();
                 } catch (NumberFormatException ex) {
-                    JOptionPane.showMessageDialog (gridBagPanel, "Invalid input", "Error", JOptionPane.ERROR_MESSAGE);
+                    JOptionPane.showMessageDialog (gridBagPanel, "Incorrect data", "Error", JOptionPane.ERROR_MESSAGE);
                 }
             }
         });
