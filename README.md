@@ -18,6 +18,12 @@ Task: [a link](https://github.com/AnichinTaras/AnichinTask/blob/master/ExamDescT
 <img src="https://media.giphy.com/media/xoZroSSBIFj7TuvcBo/giphy.gif" width="600" height="600" />
 
 
-<h1> Demonstration: </h1>
+<h1> Demonstration of the program: </h1>
 
-<img src="https://media.giphy.com/media/OYU5hkSpArkwnrlf70/giphy.gif" width="600" height="600" />
+<img src="https://media.giphy.com/media/EgvZS4qqP3Mm44ZghO/giphy.gif" width="600" height="600" />
+
+
+<h1> Demonstration of validation: </h1>
+
+
+<img src="https://media.giphy.com/media/1miIJ8xlVxkNsJfywd/giphy.gif" width="600" height="600" />
