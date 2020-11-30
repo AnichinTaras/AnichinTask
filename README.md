@@ -13,6 +13,8 @@ Task: [a link](https://github.com/AnichinTaras/AnichinTask/blob/master/ExamDescT
    </ul>
    <hr>
 
+
+<h2> Demonstration of building a project through maven </h2>
 <img src="https://media.giphy.com/media/xoZroSSBIFj7TuvcBo/giphy.gif" width="600" height="600" />
 
 
