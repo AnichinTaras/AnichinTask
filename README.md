@@ -26,4 +26,4 @@ Task: [a link](https://github.com/AnichinTaras/AnichinTask/blob/master/ExamDescT
 <h1> Demonstration of validation: </h1>
 
 
-<img src="https://media.giphy.com/media/1miIJ8xlVxkNsJfywd/giphy.gif" width="600" height="600" />
+<img src="https://media.giphy.com/media/JT8xxzH1EncfKwZA2q/giphy.gif" width="600" height="600" />
